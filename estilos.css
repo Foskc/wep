@@ -9,8 +9,9 @@ html{
     background-color: #fffbeb ;
 }
 #titulo{
-    color: pink;
+    color: #db4873;
     text-align: center;
     font-size: 45px ;
-    font-family: "Playwrite DK Loopet" ;
+    font-family: "Playwrite DK Loopet Trial", cursive;
+ ;
 }
