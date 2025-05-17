@@ -1,0 +1,145 @@
+body{
+    background-color: #fffbeb;
+}
+
+h1{
+    color: #db4873;
+    font-family:Parisienne;
+    text-align: center;
+    font-size: 100px;
+    background-color: #fffbeb;
+    width: 100%;
+    height: 80px;
+    border-top: #f5bac4 2px solid;
+    border-bottom: #f5bac4 2px solid;
+    margin-top: 85px;
+    padding-bottom: 15px;
+}
+
+.inicio{
+    font-family: Agbalumo;
+    color: #db4873;
+    font-size: 16px;
+    text-align: right;
+    padding: 10px;
+    padding-bottom: 0;
+}
+.espacio-index{
+    height: 30px;
+}
+
+.mapa{
+    width: 1800px;
+    padding: 10px;
+}
+
+.cuadrar{
+    text-align: center;
+    border-top: #f5bac4 5px solid;
+    margin-top: 0;
+}
+
+.imagenes-menu{
+    text-align: center;
+}
+.imagen-menu{
+    width: 400px;
+}
+
+li{
+    color: #db4873;
+    font-family: Agbalumo;
+    font-size: 22px;
+}
+.subpagina{
+    color: #db4873;
+    font-family:Parisienne;
+    text-align: left;
+    font-size: 60px;
+    background-color: #fffbeb;
+    width: 100%;
+    height: 40px;
+    padding-bottom: 60px;
+    margin-left: 10px;
+    margin-top: 30px;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+h2{
+    color: #db4873;
+    font-family: Agbalumo;
+}
+.paises{
+    border: #f5bac4 solid 2px;
+    border-radius: 50%;
+    width: 300px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+p{
+    color: #db4873;
+    text-align: justify;
+    font-family: Agbalumo;
+}
+
+.menu-secundario{
+    border: #f5bac4 3px solid;
+    background-color: #f5bac4;
+    margin: 0px;
+    padding: 5px;
+    font-size: 22px;
+    text-align: center;
+    width: 120px;
+    height: 30px;
+    margin: 10px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.pestaña-abierta{
+    border: #f5bac4 3px solid;
+    border-bottom: #fffbeb 2px solid;
+    background-color: #fffbeb;
+    padding: 5px;
+    font-size: 22px;
+    text-align: center;
+    width: 120px;
+    height: 30px;
+    margin: 10px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+input{
+    width: 500px;
+    margin: 10px;
+    padding: 10px;
+    border: #f48ba6 solid 2px;
+    background-color: #fffbeb;
+    border-radius: 10px;
+}
+.boton{
+    background-color: #f48ba6;
+    color: #fffbeb;
+    font-family: Agbalumo;
+    font-size: 20px;
+    width: 100px;
+}
+.Review{
+    width: 500px;
+    height: 250px;
+}
+
+.menu-inicial{
+    margin: 60px;
+}
+
+label{
+    color: #db4873;
+    text-align: justify;
+    font-family: Agbalumo;
+
+}
